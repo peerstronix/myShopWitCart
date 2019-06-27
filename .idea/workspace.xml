@@ -2,25 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae9ece21-ea16-4645-9a93-2104c37f584c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../._.DS_Store" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/Shopping.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../images/._.DS_Store" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../images/product-photos/iphone5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../images/product-photos/iphone6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../images/product-photos/iphone7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../images/product-photos/iphoneXsMax.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../images/product-photos/samsungJ7p.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../images/product-photos/samsungJ7pro.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../images/product-photos/samsungN10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../images/product-photos/samsungN10s.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../phone-shop.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../php/CreateDB.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../php/component.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../start.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/CreateDB.php" beforeDir="false" afterPath="$PROJECT_DIR$/php/CreateDB.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,8 +48,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/php/CreateDB.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="58" selection-start-line="58" selection-end-line="58" />
+            <state relative-caret-position="1368">
+              <caret line="72" column="2" selection-start-line="72" selection-start-column="2" selection-end-line="72" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -74,15 +57,15 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/php/component.php" />
         <option value="$PROJECT_DIR$/phone-shop.css" />
-        <option value="$PROJECT_DIR$/php/CreateDB.php" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/php/CreateDB.php" />
       </list>
     </option>
   </component>
@@ -134,16 +117,18 @@
       <updated>1561578940218</updated>
       <workItem from="1561578942281" duration="12518000" />
       <workItem from="1561621194838" duration="310000" />
+      <workItem from="1561622668817" duration="150000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12828000" />
+    <option name="totallyTimeSpent" value="12978000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="29" y="54" width="1346" height="700" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12986003" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13141525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -166,6 +151,11 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.php">
@@ -191,8 +181,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/php/CreateDB.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        <state relative-caret-position="1368">
+          <caret line="72" column="2" selection-start-line="72" selection-start-column="2" selection-end-line="72" selection-end-column="2" />
         </state>
       </provider>
     </entry>
